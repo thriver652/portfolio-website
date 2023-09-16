@@ -1,19 +1,29 @@
 # Simple Portfolio Website
 
 Live Demo : https://thriver652.github.io/portfolio-website/
+
 This is a basic portfolio website built using HTML, CSS, and JavaScript. It serves as a platform to showcase your personal information, skills, and projects. Whether you're a developer, designer, or any professional looking to create an online presence, this simple portfolio website is a great starting point.
 
-## Features
 
-- **Personal Information:** Display your name, a short bio, and a profile picture on the homepage.
+1. **About Me:** Provide a detailed description of yourself, including your background, education, and work experience. Share your career goals and aspirations.
 
-- **Skills:** Highlight your key skills and areas of expertise.
+2. **Resume/CV:** Include a downloadable PDF of your resume or CV for visitors to access easily.
 
-- **Projects:** Showcase your work with a section to feature your projects. Include project titles, descriptions, and links.
+3. **Portfolio:** Showcase your work, projects, and achievements. This can include software projects, design work, articles you've written, or any other relevant accomplishments.
 
-- **Contact Information:** Provide ways for visitors to get in touch with you, such as an email address and links to your social media profiles.
+4. **Skills:** List your technical skills, programming languages, software tools, and other abilities that are relevant to your field.
 
-- **Responsive Design:** The website is designed to work well on both desktop and mobile devices, ensuring a consistent user experience.
+5. **Achievements:** Highlight any awards, certifications, or achievements you've earned.
+
+6. **Hobbies/Interests:** Share your personal interests, hobbies, or extracurricular activities to give visitors a glimpse into your personality outside of work.
+
+7. **Photography:** If you're into photography, consider creating a gallery of your best shots.
+
+8. **Social Media Links:** Include links to your professional social media profiles (LinkedIn, GitHub, Twitter) to connect with visitors.
+
+9. **Responsive Design:** Ensure your website is responsive and mobile-friendly to accommodate users on various devices.
+
+10. **Custom Domain:** Consider purchasing a custom domain name (e.g., www.yourname.com) to make your website more professional and memorable.
 
 ## Installation
 
@@ -87,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or feedback, please feel free to contact us at (mailto:tvspraneeth6502@gmail.com).
 
 ---
 
